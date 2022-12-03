@@ -8,4 +8,4 @@ go mod init [project name] = สร้าง Module go
 
 go mod tidy = ดิดตั้ง Package
 
-go get -u [Module] = update pageage **ถ้าไม่ใส่ Module pageage ก็จะอัปเดตทั้งหทด
+go get -u [Module] = update pageage **ถ้าไม่ใส่ Module pageage ก็จะอัปเดตทั้งหมด
